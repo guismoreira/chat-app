@@ -40,7 +40,7 @@ p:nth-of-type(odd) {
   position: relative;
   padding: 10px 20px;
   color: white;
-  background: #0b93f6;
+  background: #d6c41f;
   border-radius: 25px;
   float: right;
 }
@@ -52,7 +52,7 @@ p:nth-of-type(odd):before {
   bottom: -2px;
   right: -7px;
   height: 20px;
-  border-right: 20px solid #0b93f6;
+  border-right: 20px solid #f81a4a;
   border-bottom-left-radius: 16px 14px;
   -webkit-transform: translate(0, -2px);
 }
@@ -99,7 +99,7 @@ p:nth-of-type(even):after {
   left: 4px;
   width: 26px;
   height: 20px;
-  background: white;
+  background: rgb(165, 164, 164);
   border-bottom-right-radius: 10px;
   -webkit-transform: translate(-30px, -2px);
 }
