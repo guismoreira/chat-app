@@ -40,7 +40,7 @@ p:nth-of-type(odd) {
   position: relative;
   padding: 10px 20px;
   color: white;
-  background: #d6c41f;
+  background: #f81a4a;
   border-radius: 25px;
   float: right;
 }
@@ -99,7 +99,7 @@ p:nth-of-type(even):after {
   left: 4px;
   width: 26px;
   height: 20px;
-  background: rgb(165, 164, 164);
+  background: white;
   border-bottom-right-radius: 10px;
   -webkit-transform: translate(-30px, -2px);
 }
