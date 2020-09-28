@@ -124,7 +124,7 @@ form div:nth-child(2) {
 
 button {
   border: none;
-  color: #0a93f6;
+  color: #2ff04f;
   background-color: transparent;
   padding: 10px;
   text-decoration: none;
@@ -133,7 +133,7 @@ button {
 
 input {
   width: 100%;
-  border: solid 1px #e5e5eb;
+  border: solid 1px #d5fa05;
   border-radius: 10px;
   padding: 5px;
 }
